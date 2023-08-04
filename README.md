@@ -1,4 +1,4 @@
-# Cartão de Perfil com Flexbox
+# Cartão de Perfil com Flexbox - Frontend Mentor
 Este é um projeto simples de um cartão de perfil criado usando Flexbox. Este projeto foi desenvolvido como parte do curso oferecido pelo DevQuest, uma plataforma de aprendizado que visa capacitar desenvolvedores a aprimorar suas habilidades em Programação.
 
 ### Desktop
