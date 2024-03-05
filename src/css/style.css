@@ -40,6 +40,14 @@ body {
     border-radius: 50%;
 }
 
+.linha {
+    width: 99.5%;
+    align-self: flex-start;
+    border: 1px solid var(--card-color);
+    
+
+}
+
 .cartao-perfil .profile-numbers {
     display: flex;
     align-items: center;
