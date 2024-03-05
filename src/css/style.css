@@ -43,7 +43,7 @@ body {
 .linha {
     width: 99.5%;
     align-self: flex-start;
-    border: 1px solid var(--card-color);
+    border: 1px solid #ccc;
     
 
 }
